@@ -8,4 +8,6 @@ You can read about this game: https://ru.wikipedia.org/wiki/Magic_8_ball
 
 <h1>Getting started</h1>
 
-```ruby 8ball.rb```
+```
+ruby 8ball.rb
+```
